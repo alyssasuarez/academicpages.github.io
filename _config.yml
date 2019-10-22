@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alyssa"
+title                    : "alyssa"
 title_separator          : "-"
 name                     : &name "alyssa"
 description              : &description "personal description"
