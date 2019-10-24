@@ -1,7 +1,7 @@
 # main links links
 main:
- - title: "recent projects"
-    url: /publications/
+ #- title: "recent projects"
+    #url: /publications/
 
   - title: "creativity"
     url: /talks/    
